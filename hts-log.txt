@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Nov 2019 04:40:49 at https://theox-web.glitch.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://theox-web.glitch.me/ -O1 "C:\Users\Psycho\Desktop\Theox\Thexo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:45:03	Error: 	"OK" (404) at link https://discordapp.com/assets/ESRB_2013_Adults_Only.svg (from https://discordapp.com/assets/dabe44acadaefe22357acd28244b1933.svg)
+04:45:03	Error: 	"OK" (404) at link https://discordapp.com/assets/ESRB_2013_Rating_Pending_alt.svg (from https://discordapp.com/assets/0f70ca2871644a7088a012669e07299c.svg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 15 seconds : 402 links scanned, 398 files written (12657322 bytes overall) [5476735 bytes received at 21477 bytes/sec], 10642376 bytes transferred using HTTP compression in 362 files, ratio 29%, 19.3 requests per connection
+(2 errors, 0 warnings, 0 messages)
